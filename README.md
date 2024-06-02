@@ -1,2 +1,2 @@
 # pgRouting-Sample-Data
-Contains demonstration of Boost::brandes_betweenness_centrality with relevant diagram on pgRouting sample data
+A basic code snippet for evaluating the edge betweenness centrality for each edge of a graph with the pgRouting sample data as its input.
